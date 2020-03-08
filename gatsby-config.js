@@ -18,7 +18,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful starter',
+    title: 'Helpperi Blog',
   },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [
